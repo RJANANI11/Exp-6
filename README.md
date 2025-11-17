@@ -2,6 +2,7 @@
 
 # AIM:
 To design and understand the working of a Student Online Examination Registration System using UML diagrams.
+
 # SRS (Procedure):
 Identify the main actors: Student, Examiner, Admin.
 Identify system functions:
